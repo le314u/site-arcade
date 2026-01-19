@@ -18,6 +18,6 @@ jobs:
         with:
           personal_token: ${{ secrets.PERSONAL_TOKEN }}
           external_repository: le314u/le314u.github.io
+          publish_branch: prod
           publish_dir: .
           destination_dir: arcade
-          publish_branch: prod
