@@ -20,3 +20,4 @@ jobs:
           external_repository: le314u/le314u.github.io
           publish_dir: .
           destination_dir: arcade
+          publish_branch: prod
